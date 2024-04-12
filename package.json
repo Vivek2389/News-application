@@ -1,0 +1,34 @@
+{
+    "name": "news-app",
+    "version": "1.0.0",
+    "description": "A simple news application built with React.js and Okta authentication.",
+    "main": "App.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "dependencies": {
+      "@okta/okta-react": "^5.0.0",
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-router-dom": "^5.2.0"
+    },
+    "devDependencies": {
+      "react-scripts": "4.0.3"
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+  
